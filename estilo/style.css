@@ -70,7 +70,7 @@ nav > a {
 }
 
 nav > a:hover{
-    background-color: #2fa866;
+    background-color: #af1a00;
     color: var(--cor05);
 }
 
@@ -228,7 +228,7 @@ div.video > iframe{
 .menu li a:hover{
 
     background: rgba(216, 203, 203, 0.493);
-    color: rgb(240, 39, 12);
+    color: rgb(27, 12, 240);
     -moz-box-shadow: 0 30px 10px #ccc;
     -webkit-box-shadow: o 3px 10px 0 #cccc;
     text-shadow: 0px 0px 5px #ffff;
