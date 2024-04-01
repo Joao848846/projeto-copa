@@ -10,7 +10,7 @@ body{
 .menu{
 
     list-style: none;
-    border: 1px solid #a10c0c;
+    border: 1px solid #2603a5;
     float: left;
 
 }
@@ -35,7 +35,7 @@ body{
 
 .menu li a:hover{
     background: rgba(216, 203, 203, 0.493);
-    color: rgb(240, 39, 12);
+    color: rgb(12, 240, 31);
     -moz-box-shadow: 0 30px 0 #ccc;
     -webkit-box-shadow:o 3px 10px o #ccc;
     text-shadow: 0px 0px 5px #fff;
@@ -57,6 +57,6 @@ body{
 
     border: 1px solid #c0c0c0;
     display: block;
-    width: 130px;px;
+    width: 130px;
 
 }
